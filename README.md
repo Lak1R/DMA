@@ -1,3 +1,3 @@
 # DMA
-For educational issues/n
+For educational issues  
 Hello world! It's my first commit!
